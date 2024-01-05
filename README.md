@@ -6,7 +6,7 @@ Elevate your Gitcoin donation experience with AI gamification! Invest your capit
 
 ## [App Walkthrough on YouTube](https://www.youtube.com/watch?v=hS9c5) <<< Click Here
 
-## [App deployed on a tiny droplet](http://) <<< Click Here
+## [App deployed on a tiny droplet](http://143.198.107.189:7519) <<< Click Here
 
 <hr>
 
