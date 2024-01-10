@@ -1,8 +1,9 @@
 # PixelPitch.ai
 
-Elevate your Gitcoin donation experience with AI gamification! Invest your capital based on the 'Coolness' factor of each image, make a donation, and discover the projects you've backed!
+PixelPitch.ai is a novel, gamified approach to Gitcoin capital allocation that uses generative AI to transform the arduous task of reading through countless project descriptions into a fun and mysterious adventure. Within this app, project descriptions have been replaced with their generative AI representations and placed within a grid. The user is then given $900, or really any amount they select, and can now simply go through the images, donating to the ones that stand out to them and have the highest "it" factor.  After pressing "Donate", the project descriptions are revealed and a ranked list of how your capital was allocated appears before you. This app is a quirky, yet intuitive and visually appealing spin on the Gitcoin donation process that is not only original, but also uses the Allo protocol, innovative uses of generative AI, is open source and can be easily implemented within the main site,
 
-<br>
+<img src="www/pitchai2.gif" align="center"/>
+
 
 ## [App Walkthrough on YouTube](https://www.youtube.com/watch?v=hS9c5) <<< Click Here
 
