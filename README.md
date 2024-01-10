@@ -5,7 +5,7 @@ PixelPitch.ai is a novel, gamified approach to Gitcoin capital allocation that u
 <img src="www/pitchai2.gif" align="center"/>
 
 
-## [App Walkthrough on YouTube](https://www.youtube.com/watch?v=hS9c5) <<< Click Here
+## [App Walkthrough on YouTube](https://www.youtube.com/watch?v=fJW5L0IeJNs) <<< Click Here
 
 ## [App deployed on a tiny droplet](http://143.198.107.189:7519) <<< Click Here
 
